@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2008-09-09 13:03+0200\n"
+"POT-Creation-Date: 2008-09-15 16:53+0200\n"
 "PO-Revision-Date: 2008-08-23 23:11+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -74,7 +74,7 @@ msgid ""
 "\n"
 "(Intermediate level, 12 scenarios.)\n"
 "\n"
-"Version 0.9.1"
+"Version 0.9.2"
 msgstr ""
 
 #. [about]
@@ -632,6 +632,7 @@ msgid "There is a treasure chest here!"
 msgstr ""
 
 #. [message]: speaker=narrator
+#: Dead_Water/scenarios/11_Getting_Help.cfg:279
 #: Dead_Water/scenarios/04_Slavers.cfg:539
 msgid "You receive 100 gold."
 msgstr ""
@@ -1467,20 +1468,20 @@ msgstr ""
 
 #. [message]: speaker=Kai Krellis
 #: Dead_Water/scenarios/09_The_Mage.cfg:530
-#: Dead_Water/scenarios/10_The_Flaming_Sword.cfg:1021
+#: Dead_Water/scenarios/10_The_Flaming_Sword.cfg:1029
 #: Dead_Water/utils/dw-utils.cfg:142
 msgid "Cylanna! I need you!"
 msgstr ""
 
 #. [message]: speaker=Kai Krellis
 #: Dead_Water/scenarios/09_The_Mage.cfg:534
-#: Dead_Water/scenarios/10_The_Flaming_Sword.cfg:1025
+#: Dead_Water/scenarios/10_The_Flaming_Sword.cfg:1033
 msgid "Tyegëa will never forgive me. We are lost."
 msgstr ""
 
 #. [message]: speaker=Cylanna
 #: Dead_Water/scenarios/09_The_Mage.cfg:548
-#: Dead_Water/scenarios/10_The_Flaming_Sword.cfg:1039
+#: Dead_Water/scenarios/10_The_Flaming_Sword.cfg:1047
 #: Dead_Water/utils/dw-utils.cfg:156
 msgid "We are lost without our leader!"
 msgstr ""
@@ -1500,7 +1501,7 @@ msgstr ""
 
 #. [objective]: condition=win
 #: Dead_Water/scenarios/10_The_Flaming_Sword.cfg:209
-#: Dead_Water/scenarios/10_The_Flaming_Sword.cfg:630
+#: Dead_Water/scenarios/10_The_Flaming_Sword.cfg:637
 msgid "Pry the flaming sword from the dead hand of its owner"
 msgstr ""
 
@@ -1589,9 +1590,9 @@ msgstr ""
 #: Dead_Water/scenarios/10_The_Flaming_Sword.cfg:316
 msgid ""
 "What I remember, you old fool, is you leaving behind the smouldering bodies "
-"of the orcs you had brought to try to take my sword. Now, you bring mermen. "
-"When they lay expiring like gasping fish on the shore, will you not flee "
-"again? Do not speak to me of fear."
+"of the orcs you had hired to steal my sword. Now, you bring mermen. When "
+"they lay expiring like gasping fish on the shore, will you not flee again? "
+"Do not speak to me of fear."
 msgstr ""
 
 #. [message]: speaker=Kai Krellis
@@ -1674,30 +1675,37 @@ msgid ""
 "your sword."
 msgstr ""
 
+#. [message]: speaker=narrator
+#: Dead_Water/scenarios/10_The_Flaming_Sword.cfg:555
+msgid ""
+"The mermen clapped their hands over their ears as a terrible wail echoed off "
+"the castle walls."
+msgstr ""
+
 #. [message]: speaker=second_unit
-#: Dead_Water/scenarios/10_The_Flaming_Sword.cfg:572
+#: Dead_Water/scenarios/10_The_Flaming_Sword.cfg:579
 msgid "Now we have the sword!"
 msgstr ""
 
 #. [message]: speaker=Caladon
-#: Dead_Water/scenarios/10_The_Flaming_Sword.cfg:577
+#: Dead_Water/scenarios/10_The_Flaming_Sword.cfg:584
 msgid "Correction. Now I have the sword!"
 msgstr ""
 
 #. [message]: speaker=Caladon
-#: Dead_Water/scenarios/10_The_Flaming_Sword.cfg:657
+#: Dead_Water/scenarios/10_The_Flaming_Sword.cfg:664
 msgid ""
 "It's MINE! The Flaming Sword of Agnovon IS ALL MINE! I can feel warmth "
 "SPREADING through me!"
 msgstr ""
 
 #. [message]: speaker=Kai Krellis
-#: Dead_Water/scenarios/10_The_Flaming_Sword.cfg:682
+#: Dead_Water/scenarios/10_The_Flaming_Sword.cfg:689
 msgid "What? We won that sword!"
 msgstr ""
 
 #. [message]: speaker=Caladon
-#: Dead_Water/scenarios/10_The_Flaming_Sword.cfg:687
+#: Dead_Water/scenarios/10_The_Flaming_Sword.cfg:694
 msgid ""
 "Well, it's true that you helped, so I won't kill you. But I don't trust you, "
 "so leave my realm. Go on. I will grant you some time. The benevolence of "
@@ -1705,78 +1713,78 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=$staff_tip_off
-#: Dead_Water/scenarios/10_The_Flaming_Sword.cfg:692
+#: Dead_Water/scenarios/10_The_Flaming_Sword.cfg:699
 msgid ""
 "(whispered) Kai! He dropped his righteous flame staff! We can attack him now!"
 msgstr ""
 
 #. [message]: speaker=Caladon
-#: Dead_Water/scenarios/10_The_Flaming_Sword.cfg:724
+#: Dead_Water/scenarios/10_The_Flaming_Sword.cfg:731
 msgid ""
 "You DARE attack ME! You will regret that. Witness the POWER of the Flaming "
 "Sword of Caladon! I call on the ELEMENT OF FIRE to DO MY BIDDING!"
 msgstr ""
 
 #. [message]: speaker=Caladon
-#: Dead_Water/scenarios/10_The_Flaming_Sword.cfg:791
+#: Dead_Water/scenarios/10_The_Flaming_Sword.cfg:798
 msgid ""
 "You aren't leaving yet. My patience is at an END! Witness the POWER of the "
 "Flaming Sword of Caladon! I call on the ELEMENT OF FIRE to DO MY BIDDING!"
 msgstr ""
 
 #. [message]: speaker=Kai Krellis
-#: Dead_Water/scenarios/10_The_Flaming_Sword.cfg:871
+#: Dead_Water/scenarios/10_The_Flaming_Sword.cfg:878
 msgid "Now we can finally grab that sword."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Dead_Water/scenarios/10_The_Flaming_Sword.cfg:887
+#: Dead_Water/scenarios/10_The_Flaming_Sword.cfg:894
 msgid "I am not going with you. One of you should take the sword."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Dead_Water/scenarios/10_The_Flaming_Sword.cfg:908
+#: Dead_Water/scenarios/10_The_Flaming_Sword.cfg:915
 msgid ""
 "This sword is 8-4, magical, with 'fire' damage.  (It does 8 damage on each "
 "of 4 swings, with a 70% chance to hit.)"
 msgstr ""
 
 #. [option]: speaker=unit
-#: Dead_Water/scenarios/10_The_Flaming_Sword.cfg:915
-#: Dead_Water/scenarios/10_The_Flaming_Sword.cfg:956
+#: Dead_Water/scenarios/10_The_Flaming_Sword.cfg:922
+#: Dead_Water/scenarios/10_The_Flaming_Sword.cfg:963
 msgid "I'll carry this sword, but I don't know how to summon fire demons."
 msgstr ""
 
 #. [option]: speaker=unit
-#: Dead_Water/scenarios/10_The_Flaming_Sword.cfg:924
-#: Dead_Water/scenarios/10_The_Flaming_Sword.cfg:965
+#: Dead_Water/scenarios/10_The_Flaming_Sword.cfg:931
+#: Dead_Water/scenarios/10_The_Flaming_Sword.cfg:972
 msgid "This sword is not right for me. Let someone else have it."
 msgstr ""
 
 #. [message]: speaker=Kai Krellis
-#: Dead_Water/scenarios/10_The_Flaming_Sword.cfg:996
+#: Dead_Water/scenarios/10_The_Flaming_Sword.cfg:1003
 msgid ""
 "We thank all you humans for your help, and release you from any farther "
 "obligations. Where we are going, you cannot easily follow."
 msgstr ""
 
 #. [message]: speaker=Caladon
-#: Dead_Water/scenarios/10_The_Flaming_Sword.cfg:1072
+#: Dead_Water/scenarios/10_The_Flaming_Sword.cfg:1080
 msgid "Aghh! Die!"
 msgstr ""
 
 #. [message]: speaker=Kai Krellis
-#: Dead_Water/scenarios/10_The_Flaming_Sword.cfg:1077
+#: Dead_Water/scenarios/10_The_Flaming_Sword.cfg:1085
 msgid "He has that staff of..."
 msgstr ""
 
 #. [message]: speaker=Caladon
-#: Dead_Water/scenarios/10_The_Flaming_Sword.cfg:1089
+#: Dead_Water/scenarios/10_The_Flaming_Sword.cfg:1097
 msgid "CURSE you mermen!"
 msgstr ""
 
 #. [message]: speaker=$spy_unit.description
-#: Dead_Water/scenarios/10_The_Flaming_Sword.cfg:1094
+#: Dead_Water/scenarios/10_The_Flaming_Sword.cfg:1102
 msgid "What a lunatic!"
 msgstr ""
 
@@ -1812,14 +1820,25 @@ msgstr ""
 #. [message]: speaker=Tyegea
 #: Dead_Water/scenarios/11_Getting_Help.cfg:186
 msgid ""
-"No matter. He was a fool. Now, you have done as I asked grandson, so I will "
+"No matter. He was a fool. Now, you have done as I asked, grandson, so I will "
 "travel with you to your home and help you rid it of restless spirits. My "
-"priestesses will come also, and will be at your disposal."
+"priestesses will come as well, and will be at your disposal."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Dead_Water/scenarios/11_Getting_Help.cfg:242
+#: Dead_Water/scenarios/11_Getting_Help.cfg:222
 msgid "You may now recruit mermaid priestesses!"
+msgstr ""
+
+#. [message]: speaker=Tyegea
+#: Dead_Water/scenarios/11_Getting_Help.cfg:250
+#: Dead_Water/scenarios/11_Getting_Help.cfg:268
+msgid "Also, I have a little gold I can bring along."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Dead_Water/scenarios/11_Getting_Help.cfg:261
+msgid "You receive 55 gold."
 msgstr ""
 
 #. [scenario]
