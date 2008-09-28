@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2008-09-15 16:53+0200\n"
+"POT-Creation-Date: 2008-09-28 23:22+0200\n"
 "PO-Revision-Date: 2008-08-23 23:11+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -13,57 +13,57 @@ msgstr ""
 "20)) ? 1 : 2;\n"
 
 #. [campaign]
-#: Dead_Water/_main.cfg:12
+#: Dead_Water/_main.cfg:18
 msgid "Dead Water"
 msgstr ""
 
 #. [campaign]
-#: Dead_Water/_main.cfg:13
+#: Dead_Water/_main.cfg:19
 msgid "DW"
 msgstr ""
 
 #. [campaign]
-#: Dead_Water/_main.cfg:17
+#: Dead_Water/_main.cfg:23
 msgid "Fighter"
 msgstr ""
 
 #. [campaign]
-#: Dead_Water/_main.cfg:17
+#: Dead_Water/_main.cfg:23
 msgid "(Normal)"
 msgstr ""
 
 #. [campaign]
-#: Dead_Water/_main.cfg:17
+#: Dead_Water/_main.cfg:23
 msgid "(Beginner)"
 msgstr ""
 
 #. [campaign]
-#: Dead_Water/_main.cfg:17
+#: Dead_Water/_main.cfg:23
 msgid "Citizen"
 msgstr ""
 
 #. [campaign]
-#: Dead_Water/_main.cfg:18
+#: Dead_Water/_main.cfg:24
 msgid "(Challenging)"
 msgstr ""
 
 #. [campaign]
-#: Dead_Water/_main.cfg:18
+#: Dead_Water/_main.cfg:24
 msgid "Warrior"
 msgstr ""
 
 #. [campaign]
-#: Dead_Water/_main.cfg:19
+#: Dead_Water/_main.cfg:25
 msgid "(Difficult)"
 msgstr ""
 
 #. [campaign]
-#: Dead_Water/_main.cfg:19
+#: Dead_Water/_main.cfg:25
 msgid "Triton"
 msgstr ""
 
 #. [campaign]
-#: Dead_Water/_main.cfg:27
+#: Dead_Water/_main.cfg:33
 msgid ""
 "You are Kai Krellis, a merman king, but only a child. A necromancer has "
 "arrived and is turing your subjects into undead slaves. Lead your people on "
@@ -76,11 +76,11 @@ msgid ""
 "\n"
 "(Intermediate level, 12 scenarios.)\n"
 "\n"
-"Version 0.9.2"
+"Version 0.9.3"
 msgstr ""
 
 #. [about]
-#: Dead_Water/_main.cfg:30
+#: Dead_Water/_main.cfg:36
 msgid "Campaign Design and Artwork"
 msgstr ""
 
@@ -562,7 +562,7 @@ msgstr ""
 
 #. [message]: speaker=Kai Krellis
 #: Dead_Water/scenarios/04_Slavers.cfg:262
-msgid "Saurians. I hear they are not very friendly."
+msgid "There are cages on the shore. I wonder why."
 msgstr ""
 
 #. [message]: speaker=Teeloa
@@ -755,9 +755,8 @@ msgstr ""
 #. [message]: speaker=Kai Krellis
 #: Dead_Water/scenarios/04_Slavers.cfg:717
 msgid ""
-"The saurians reacted faster than I thought they would. They probably hoped "
-"to take more of them by surprise as well. I'm sure they knew what could "
-"happen though."
+"They probably hoped to take more of the saurians by surprise. I'm sure they "
+"knew what could happen though."
 msgstr ""
 
 #. [scenario]
