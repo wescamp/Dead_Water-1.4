@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2008-09-28 23:22+0200\n"
+"POT-Creation-Date: 2008-11-09 19:21+0100\n"
 "PO-Revision-Date: 2008-08-23 23:11+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -64,7 +64,7 @@ msgstr ""
 #: Dead_Water/_main.cfg:33
 msgid ""
 "You are Kai Krellis, a merman king, but only a child. A necromancer has "
-"arrived and is turing your subjects into undead slaves. Lead your people on "
+"arrived and is turning your subjects into undead slaves. Lead your people on "
 "a mission to convince a powerful mermaid to help you repel the invasion. The "
 "oceans near the Northern Lands are perilous, so you will need cunning and "
 "bravery to be survive, but first you need to gain the respect of your "
@@ -74,7 +74,7 @@ msgid ""
 "\n"
 "(Intermediate level, 12 scenarios.)\n"
 "\n"
-"Version 0.9.3"
+"Version 0.9.4"
 msgstr ""
 
 #. [about]
@@ -420,7 +420,7 @@ msgstr ""
 
 #. [message]: speaker=Mal Kevek
 #: Dead_Water/scenarios/12_Revenge.cfg:404
-#: Dead_Water/scenarios/02_Flight.cfg:345
+#: Dead_Water/scenarios/02_Flight.cfg:340
 msgid "This is impossible!"
 msgstr ""
 
@@ -632,8 +632,8 @@ msgid "There is a treasure chest here!"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Dead_Water/scenarios/11_Getting_Help.cfg:279
 #: Dead_Water/scenarios/04_Slavers.cfg:539
+#: Dead_Water/scenarios/11_Getting_Help.cfg:279
 msgid "You receive 100 gold."
 msgstr ""
 
@@ -937,8 +937,8 @@ msgid "Growloff and His Pets"
 msgstr ""
 
 #. [objective]: condition=win
-#: Dead_Water/scenarios/07_Bilheld.cfg:121
 #: Dead_Water/scenarios/06_Uncharted_Islands.cfg:119
+#: Dead_Water/scenarios/07_Bilheld.cfg:121
 msgid "Defeat enemy leader"
 msgstr ""
 
@@ -1138,8 +1138,8 @@ msgid ""
 msgstr ""
 
 #. [side]: description=Tyegea, type=Mermaid Diviner
-#: Dead_Water/scenarios/08_Talking_To_Tyegea.cfg:75
 #: Dead_Water/scenarios/11_Getting_Help.cfg:108
+#: Dead_Water/scenarios/08_Talking_To_Tyegea.cfg:75
 msgid "Tyegëa and Priestesses"
 msgstr ""
 
@@ -1375,66 +1375,61 @@ msgstr ""
 msgid "Let us find the mage quickly and leave."
 msgstr ""
 
-#. [message]: speaker=Gwabbo
-#: Dead_Water/scenarios/09_The_Mage.cfg:375
-msgid "Hey, that cave is full of bats! Here they come."
+#. [message]: speaker=Teeloa
+#: Dead_Water/scenarios/09_The_Mage.cfg:370
+msgid "Hey, that cave is full of bats! I HATE those things."
 msgstr ""
 
 #. [message]: speaker=Kai Krellis
-#: Dead_Water/scenarios/09_The_Mage.cfg:379
-msgid "I hope there aren't any more in there."
+#: Dead_Water/scenarios/09_The_Mage.cfg:374
+msgid "I hope there aren't any more bats in there."
 msgstr ""
 
-#. [message]: speaker=Keshan
-#: Dead_Water/scenarios/09_The_Mage.cfg:385
-msgid "Little hungry bats kind of cute."
-msgstr ""
-
-#. [message]: speaker=Kai Krellis
-#: Dead_Water/scenarios/09_The_Mage.cfg:389
+#. [message]: speaker=Cylanna
+#: Dead_Water/scenarios/09_The_Mage.cfg:378
 msgid ""
-"Except that they are hungry for us! I hope there aren't any more in there."
+"This is a good place for a large colony, so I think we will see more soon."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Dead_Water/scenarios/09_The_Mage.cfg:468
+#: Dead_Water/scenarios/09_The_Mage.cfg:419
 msgid "Hey, I found somebody!"
 msgstr ""
 
 #. [message]: speaker=Keshan
-#: Dead_Water/scenarios/09_The_Mage.cfg:474
+#: Dead_Water/scenarios/09_The_Mage.cfg:425
 msgid "There somebody here."
 msgstr ""
 
 #. [message]: speaker=Caladon
-#: Dead_Water/scenarios/09_The_Mage.cfg:478
+#: Dead_Water/scenarios/09_The_Mage.cfg:429
 msgid "Whoa there! BACK off or else!"
 msgstr ""
 
 #. [message]: speaker=Kai Krellis
-#: Dead_Water/scenarios/09_The_Mage.cfg:482
+#: Dead_Water/scenarios/09_The_Mage.cfg:433
 msgid "Do not worry about him. He is friendly."
 msgstr ""
 
 #. [message]: speaker=Kai Krellis
-#: Dead_Water/scenarios/09_The_Mage.cfg:488
+#: Dead_Water/scenarios/09_The_Mage.cfg:439
 msgid "You must be Caladon. We are glad to see you."
 msgstr ""
 
 #. [message]: speaker=Caladon
-#: Dead_Water/scenarios/09_The_Mage.cfg:492
+#: Dead_Water/scenarios/09_The_Mage.cfg:443
 msgid "I am Caladon. Am I glad to see YOU?"
 msgstr ""
 
 #. [message]: speaker=Kai Krellis
-#: Dead_Water/scenarios/09_The_Mage.cfg:496
+#: Dead_Water/scenarios/09_The_Mage.cfg:447
 msgid ""
 "I am Kai Krellis of Jotha. I am seeking a flaming sword, and I am told you "
 "know where to find it."
 msgstr ""
 
 #. [message]: speaker=Caladon
-#: Dead_Water/scenarios/09_The_Mage.cfg:500
+#: Dead_Water/scenarios/09_The_Mage.cfg:451
 msgid ""
 "Ha! A MERman wants the Flaming Sword of AGNOVON! Why would YOU be able to "
 "get it when so many others could NOT? Although you do have an impressive "
@@ -1442,47 +1437,47 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Kai Krellis
-#: Dead_Water/scenarios/09_The_Mage.cfg:504
+#: Dead_Water/scenarios/09_The_Mage.cfg:455
 msgid "Whether I can succeed or not, I must try. Will you help me find it?"
 msgstr ""
 
 #. [message]: speaker=Caladon
-#: Dead_Water/scenarios/09_The_Mage.cfg:508
+#: Dead_Water/scenarios/09_The_Mage.cfg:459
 msgid ""
 "I will show you EXACTLY where it is, but knowing where to FIND it isn't the "
 "hard part. Oh, no! You will see, my fine merman, you will see."
 msgstr ""
 
 #. [message]: speaker=Cylanna
-#: Dead_Water/scenarios/09_The_Mage.cfg:512
+#: Dead_Water/scenarios/09_The_Mage.cfg:463
 msgid "We would be very happy if you would guide us."
 msgstr ""
 
 #. [message]: speaker=Caladon
-#: Dead_Water/scenarios/09_The_Mage.cfg:516
+#: Dead_Water/scenarios/09_The_Mage.cfg:467
 msgid ""
 "I would be HAPPY to guide such a pretty mermaid AND her friends. Follow me "
 "everybody!"
 msgstr ""
 
 #. [message]: speaker=Kai Krellis
-#: Dead_Water/scenarios/09_The_Mage.cfg:530
-#: Dead_Water/scenarios/10_The_Flaming_Sword.cfg:1029
 #: Dead_Water/utils/dw-utils.cfg:142
+#: Dead_Water/scenarios/10_The_Flaming_Sword.cfg:1029
+#: Dead_Water/scenarios/09_The_Mage.cfg:481
 msgid "Cylanna! I need you!"
 msgstr ""
 
 #. [message]: speaker=Kai Krellis
-#: Dead_Water/scenarios/09_The_Mage.cfg:534
 #: Dead_Water/scenarios/10_The_Flaming_Sword.cfg:1033
+#: Dead_Water/scenarios/09_The_Mage.cfg:485
 msgid "Tyegëa will never forgive me. We are lost."
 msgstr ""
 
 #. [message]: speaker=Cylanna
-#: Dead_Water/scenarios/09_The_Mage.cfg:548
-#: Dead_Water/scenarios/10_The_Flaming_Sword.cfg:1047
 #: Dead_Water/utils/dw-utils.cfg:156
-msgid "We are lost without our leader!"
+#: Dead_Water/scenarios/10_The_Flaming_Sword.cfg:1047
+#: Dead_Water/scenarios/09_The_Mage.cfg:499
+msgid "We are lost without our king!"
 msgstr ""
 
 #. [scenario]
@@ -1505,15 +1500,15 @@ msgid "Pry the flaming sword from the dead hand of its owner"
 msgstr ""
 
 #. [objective]: condition=lose
-#: Dead_Water/scenarios/12_Revenge.cfg:281
-#: Dead_Water/scenarios/10_The_Flaming_Sword.cfg:213
 #: Dead_Water/utils/dw-utils.cfg:121
+#: Dead_Water/scenarios/10_The_Flaming_Sword.cfg:213
+#: Dead_Water/scenarios/12_Revenge.cfg:281
 msgid "Death of Kai Krellis"
 msgstr ""
 
 #. [objective]: condition=lose
-#: Dead_Water/scenarios/10_The_Flaming_Sword.cfg:217
 #: Dead_Water/utils/dw-utils.cfg:125
+#: Dead_Water/scenarios/10_The_Flaming_Sword.cfg:217
 msgid "Death of Cylanna"
 msgstr ""
 
@@ -1523,8 +1518,8 @@ msgid "Death of Caladon"
 msgstr ""
 
 #. [objective]: condition=lose
-#: Dead_Water/scenarios/10_The_Flaming_Sword.cfg:225
 #: Dead_Water/utils/dw-utils.cfg:129
+#: Dead_Water/scenarios/10_The_Flaming_Sword.cfg:225
 msgid "Run out of Turns"
 msgstr ""
 
@@ -2055,13 +2050,14 @@ msgstr ""
 #. [unit]: race=merman
 #: Dead_Water/units/Soldier_King.cfg:28
 msgid ""
-"As a king becomes skilled at combat, he is seen as a true leader of "
-"soldiers. His strength allows him to wield powerful weapons, and his "
-"leadership abilities inspire his troops."
+"A king who is skilled at combat is commands great respect--especially among "
+"soldiers. His strength allows him to wield powerful weapons and move "
+"quickly, even with heavy armor. His leadership abilities inspire his troops."
 msgstr ""
 
 #. [attack]: type=impact
-#: Dead_Water/units/Warrior_King.cfg:33 Dead_Water/units/Soldier_King.cfg:33
+#: Dead_Water/units/Warrior_King.cfg:39 Dead_Water/units/Soldier_King.cfg:37
+#: Dead_Water/units/Young_King.cfg:33
 msgid "mace"
 msgstr ""
 
@@ -2071,11 +2067,11 @@ msgid "Warrior King"
 msgstr ""
 
 #. [unit]: race=merman
-#: Dead_Water/units/Warrior_King.cfg:28
+#: Dead_Water/units/Warrior_King.cfg:29
 msgid ""
 "Warrior kings often become legendary in their own time. Their skill and "
-"strength allows them to be truely formidible in battle. They are hardy and "
-"fast. Even skilled soldiers look upon them with awe."
+"strength allows them to be truely formidible in battle. They also fast "
+"despite their heavy armor. Even skilled soldiers look upon them with awe."
 msgstr ""
 
 #. [unit]: race=merman
@@ -2089,11 +2085,6 @@ msgid ""
 "A young king with some battle experience will be treated with some respect. "
 "Common citizens will be inspired to do their utmost when the king is nearby, "
 "but battle-hardened veterens will be less impressed."
-msgstr ""
-
-#. [attack]: type=impact
-#: Dead_Water/units/Young_King.cfg:33
-msgid "scepter"
 msgstr ""
 
 #: Dead_Water/utils/dw-utils.cfg:88
